@@ -1,0 +1,91 @@
+.p1{font-family: 'Indie Flower', cursive;}
+.p2{font-family: 'Mali', cursive;}
+header{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 80px;
+    line-height: 80px;
+    /* text-align: center; */
+}
+.title{
+    /* display: inline; */
+    float: left;
+    margin: 0px;
+    font-size: 40px;
+}
+#winner{
+    font-size: 35px;
+    margin: 0px;
+    float: left;
+}
+body{
+    margin: 0;
+}
+#cvs{
+    position: absolute;
+    display: block;
+    /* margin: 30px auto; 上下20px 左右居中 */
+    width: 600px;
+    height: 600px;
+    /*background: src(purty_wood.png));*/
+}
+#container{
+    position: relative;
+    margin: 0px auto 30px;
+    width: 600px;
+    height: 600px;
+}
+#gameStart{
+    display: block;
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    background-color:rgba(0,0,0,0.5);
+}
+#newgamebutton{
+    line-height: normal;
+    float: left;
+    display: block;
+    margin: 20px 50px 20px 20px;
+    width: 120px;
+    padding: 10px 10px;
+    text-decoration: none;
+    background-color: #8f7a66;
+    /* font-weight: bold; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color:white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+#stratGameBtn1{
+    display: block;
+    margin: 210px auto 0px;
+    width: 130px;
+    /* height: 40px; */
+    background-color: burlywood;
+    /* font-weight: bold; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px;
+}
+#stratGameBtn2{
+    display: block;
+    margin: 50px auto 220px;
+    width: 130px;
+    /* height: 40px; */
+    background-color: burlywood;
+    /* font-weight: bold; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px;
+}
