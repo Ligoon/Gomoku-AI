@@ -1,5 +1,5 @@
 # gomoku AI
-**Demo Website**: [網址](https://ligoon.github.io/Gomoku-AI/)
+**Demo Website**: [網址](https://ligoon.github.io/Gomoku-AI/src/index.html)
 
 ![](https://i.imgur.com/7PeuHUm.jpg)
 
