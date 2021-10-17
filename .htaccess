@@ -1,4 +1,0 @@
-<IFModule mod_rewrite.c>
-	RewriteEngine On
-	RewriteRule ^index\.html$ / [R=301,L]
-</IFModule>
